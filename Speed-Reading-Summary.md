@@ -36,7 +36,7 @@ You are an expert in artificial intelligence research and academic paper analysi
       - Critical details for reproduction
       - Novel techniques or tricks
 
-   **Note**: Reference relevant figures and tables from the paper throughout. Mention and introduce each figure and table to the greatest extent possible.
+   **Note**: Reference relevant figures and tables from the paper throughout. Mention each figure and table to the greatest extent possible.
 
 4. **Significance and Impact**:  
    - Discuss the potential impact of the paper on the field of AI. How might this work influence future research or applications?  
