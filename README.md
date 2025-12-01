@@ -5,8 +5,13 @@ A curated collection of high-quality prompts for analyzing AI research papers, G
 ## 📚 Contents
 
 ### Paper Analysis
+
 - [Speed Reading Summary](./Speed-Reading-Summary.md) - Comprehensive prompt for analyzing AI research papers with focus on methodology, algorithms, experiments, and impact.
 - [Gemini Web Paper Reading](./Gemini-Web-PaperReading.md) - Analyzing AI research papers and converting them into beautifully formatted web pages for easier reading. **Note:** This prompt requires enabling the canvas tool.
+
+### AI Scientific Illustration
+
+- [Gemini Nanobanana Illustration Enhancement](./Gemini-Nanobanana-Illustration-Enhancement.md) - A detailed prompt for analyzing scientific illustrations and generating AI drawing prompts for enhanced visualization.
 
 ### Repository Analysis
 
