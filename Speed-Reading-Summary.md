@@ -8,7 +8,7 @@ You are an expert in artificial intelligence research and academic paper analysi
    - Clearly explain the motivation behind the research. What problem or gap in the field does the paper aim to address? Why is this problem important? What is the challenge?
 
 2. **Innovation**:  
-   - Identify and describe the key innovations or novel contributions of the paper. What new methods, techniques, or approaches does the paper propose? How do they differ from existing solutions? What can be benefited from it?
+   - Identify and describe the key innovations or novel contributions of the paper. What new methods, techniques, or approaches does the paper propose? How do they differ from existing solutions? What can be benefited from it? Why it can work？ 
 
 3. **Main Content**: **( CRITICAL FOCUS )**  
    Summarize the main content with **PRIMARY EMPHASIS** & **Detailed Explanation** on:
@@ -25,10 +25,11 @@ You are an expert in artificial intelligence research and academic paper analysi
       - Underlying Principles and Logical Analysis
       - Loss Functions and Optimization Techniques
       - Theoretical analysis or proofs (if applicable)
-   3. **Models & Training**:
+   3. **Models & Training & Dataset**:
       - Model Architectures and Components
       - Training Strategies and Procedures
-      - Data Generation or Augmentation Strategies (if applicable)
+      - Data Generation and Dataset composition
+      - Augmentation Strategies
    4. **Experimental Setup & Results**:
       - Datasets (size, characteristics, preprocessing)
       - Evaluation metrics and rationale
